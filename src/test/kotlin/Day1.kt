@@ -1,7 +1,7 @@
 import org.assertj.core.api.Assertions.assertThat
 import org.junit.jupiter.api.Test
 
-class AdventOfCodeDay1 {
+class Day1 {
 
     private val input = """
     6669
